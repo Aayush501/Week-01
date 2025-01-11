@@ -5,7 +5,7 @@ public class CheckGrade2 {
 		
 		Scanner input = new Scanner(System.in); // Object of scanner class
 		
-		// created a 2D array to store the marks of the student in physics, chemistry, and maths
+		// created an array to store the marks of the student in physics, chemistry, and maths
 		int [] marks = new int [3];
 		marks[0] = input.nextInt();
 		marks[1] = input.nextInt();
